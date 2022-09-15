@@ -1,0 +1,3 @@
+[run]
+omit =
+    pypackage_example/__main__.py
