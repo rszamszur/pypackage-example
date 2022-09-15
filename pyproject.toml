@@ -5,7 +5,7 @@ description = "This project was generated with cookiecutter-pypackage."
 authors = ["Radosław Szamszur <github@rsd.sh>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/rszamszur/cookiecutter-pypackage"
+repository = "https://github.com/rszamszur/pypackage-example"
 classifiers = [
     'Intended Audience :: Developers',
     'Natural Language :: English',
@@ -37,7 +37,7 @@ myst-parser = "~0.17.2"
 pypackage-example = 'pypackage_example.cli:cli'
 
 [tool.poetry.urls]
-"Issues" = "https://github.com/rszamszur/cookiecutter-pypackage/issues"
+"Issues" = "https://github.com/rszamszur/pypackage-example/issues"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

@@ -14,7 +14,7 @@ poetry2nix.mkPoetryApplication rec {
   pythonImportsCheck = [ "pypackage_example" ];
 
   meta = with lib; {
-    homepage = "https://github.com/rszamszur/cookiecutter-pypackage";
+    homepage = "https://github.com/rszamszur/pypackage-example";
     description = "This project was generated with cookiecutter-pypackage.";
   };
 }

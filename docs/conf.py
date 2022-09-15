@@ -43,7 +43,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 html_theme = "click"
 html_context = {
     "project_links": [
-        ProjectLink("Source Code", "https://github.com/rszamszur/cookiecutter-pypackage"),
+        ProjectLink("Source Code", "https://github.com/rszamszur/pypackage-example"),
     ]
 }
 html_sidebars = {
